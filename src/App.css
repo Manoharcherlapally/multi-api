@@ -1,0 +1,67 @@
+
+.card-img-top{
+  width: 17rem;
+  height: 15rem;
+}
+.cards{
+  width: 17rem;
+  height:26rem;
+  margin: 10px;
+  background-color: white;
+  
+  
+  
+  
+}
+
+.animeData{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color:black;
+  
+}
+.heading{
+  color: red;
+}
+
+
+.cardImage{
+
+   padding: 2rem;
+
+} 
+.a{
+  text-decoration: none;
+}
+.weatherContainer{
+  text-align: center;
+  height: 43rem;
+  background-image: url(../src/images/image5.jpg);
+}
+.navbar{
+  background-color:black;
+}
+.cryptoContainer{
+  margin-left: 5rem;
+  
+  
+  
+  width: 80rem;
+}
+
+.containerfluid{
+  background-image: linear-gradient(to bottom right,white 50%,navy 50%);
+}
+.card{
+  width: 20rem;
+  height:20rem;
+  text-align: center;
+  background-color:black;
+  
+}
+.btn{
+  color: white;
+
+}
